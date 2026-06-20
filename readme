@@ -1,43 +1,123 @@
-# 👋 سلام، من حسن باقری هستم                 ---hello ,i am hasan bagheri
+<!-- BENAR ASCII ART -->
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗               ║
+║   ██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║               ║
+║   ███████║███████║███████╗███████║██╔██╗ ██║               ║
+║   ██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║               ║
+║   ██║  ██║██║  ██║███████║██║  ██║██║ ╚████║               ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝               ║
+║                                                              ║
+║            Data Analyst in Progress 🚀                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-همیشه به یادگیری تخصص جدید حرص و ولع دارم      ---I am always eager to learn new skills.
+<!-- BADGE VISITOR COUNTER -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=0hasanbagheri0.0hasanbagheri0" alt="visitors" />
+  <img src="https://img.shields.io/github/followers/0hasanbagheri0?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/0hasanbagheri0?label=Stars&style=social" alt="stars" />
+</p>
 
-## 🔭 در حال حاضر روی چه چیزی کار می‌کنم؟     --- What am I working on right now?
+---
+
+<!-- INTRO SECTION -->
+<h1 align="center">👋 سلام، من حسن باقری هستم (Hello, I am Hasan Bagheri)</h1>
+<h3 align="center">همیشه به یادگیری تخصص جدید حرص و ولع دارم (I am always eager to learn new skills)</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+<!-- ABOUT ME SECTION -->
+## 🔭 در حال حاضر روی چه چیزی کار میکنم؟ (What am I working on right now?)
 
 - 📊 یادگیری **تحلیل داده با پایتون** (Pandas, NumPy, Matplotlib)
-- 📝 مستندسازی روزانه یادگیری‌هایم در             ---Documenting my learnings daily in 
-           [My-Learning-Journal](https://github.com/0hasanbagheri0/My-Learning-Journal)
+- 📝 مستندسازی روزانه یادگیری‌هایم در [My-Learning-Journal](https://github.com/0hasanbagheri0/My-Learning-Journal)
 
-## 🌱 در حال یادگیری----Learning
+## 🌱 در حال یادگیری (Learning)
 
 - 🐍 Python (پیشرفته)
 - 📊 Pandas برای پردازش داده
 - 📈 NumPy برای محاسبات عددی
 - 📉 Matplotlib و Seaborn برای مصورسازی داده
 
+---
 
-## 📫 چگونه با من تماس بگیرید؟                ---How to contact me?
+<!-- GITHUB STATS SECTION - TWO COLUMN LAYOUT -->
+## 📊 آمار گیتهاب من (My GitHub Stats)
 
-- 📧 Email: hasan111bagheri@gmail.com
-- 💼 GitHub: [github.com/0hasanbagheri0](https://github.com/0hasanbagheri0)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0hasanbagheri0&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0hasanbagheri0&theme=radical&hide_border=true" />
+</p>
 
-## ⚡ آمار گیت‌هاب من
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0hasanbagheri0&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0hasanbagheri0&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0hasanbagheri0&layout=compact&theme=radical)
-
-## 📊 روزهای کدنویسی من
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0hasanbagheri0&theme=radical)]
- (https://git.io/streak-stats)
-
-## 🏆 پروژه‌های من
+<!-- PROJECTS SECTION WITH BADGES -->
+## 🏆 پروژه‌های من (My Projects)
 
 | پروژه | توضیحات | وضعیت |
 | :--- | :--- | :--- |
-| [My-Learning-Journal](https://github.com/0hasanbagheri0/My-Learning-Journal) | ژورنال یادگیری تحلیل داده | 🔄 در حال پیشرفت |
-| [Project 2](link) | توضیحات | ⏳ به زودی |
+| [My-Learning-Journal](https://github.com/0hasanbagheri0/My-Learning-Journal) | 📚 ژورنال یادگیری تحلیل داده | 🟢 در حال پیشرفت |
+| [Data-Analysis-Portfolio](https://github.com/0hasanbagheri0/Data-Analysis-Portfolio) | 📊 نمونه پروژه‌های تحلیل داده | 🟡 در حال ساخت |
+| [python-practice](https://github.com/0hasanbagheri0/python-practice) | 🐍 تمرین‌های روزانه پایتون | 🟢 فعال |
 
+---
 
-**💡 همیشه در حال یادگیری و رشد هستم!**        ---I am always learning and growing.
+<!-- SPOTIFY NOW PLAYING (OPTIONAL) -->
+## 🎵 در حال گوش دادن (Now Playing)
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
+  </a>
+</p>
+
+> 💡 **نکته:** برای فعال‌سازی بخش اسپاتیفای، باید `YOUR_SPOTIFY_ID` را با آیدی واقعی خود جایگزین کنید.
+
+---
+
+<!-- CONTACT SECTION -->
+## 📫 چگونه با من تماس بگیرید؟ (How to contact me?)
+
+<p align="center">
+  <a href="mailto:hasan111bagheri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/0hasanbagheri0">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_ID">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <b>💡 همیشه در حال یادگیری و رشد هستم! (I am always learning and growing)</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0hasanbagheri0/0hasanbagheri0/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+⭐️ **از بازدید شما متشکرم!** (Thanks for visiting!)
