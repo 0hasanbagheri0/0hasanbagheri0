@@ -15,11 +15,10 @@
 
 <!-- BADGE VISITOR COUNTER -->
 <p align="center">
-  <img src="https://visitor-badge.laisc.ir/badge?page_id=0hasanbagheri0.0hasanbagheri0" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/0hasanbagheri0?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/0hasanbagheri0?label=Stars&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=0hasanbagheri0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/0hasanbagheri0?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/0hasanbagheri0?label=Stars&style=social" alt="GitHub Stars" />
 </p>
-
 ---
 
 <!-- INTRO SECTION -->
