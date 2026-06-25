@@ -1,16 +1,16 @@
 <!-- BENAR ASCII ART -->
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗                 ║
-║   ██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║                 ║
-║   ███████║███████║███████╗███████║██╔██╗ ██║                 ║
-║   ██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║                 ║
-║   ██║  ██║██║  ██║███████║██║  ██║██║ ╚████║                 ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝                 ║
-║                                                              ║
-║            Data Analyst in Progress 🚀                       ║
-╚══════════════════════════════════════════════════════════════╝
+                                                        ╔═══════════════════════════════════════════════╗
+                                                        ║                                               ║
+                                                        ║   ██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗  ║
+                                                        ║   ██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║  ║
+                                                        ║   ███████║███████║███████╗███████║██╔██╗ ██║  ║
+                                                        ║   ██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║  ║
+                                                        ║   ██║  ██║██║  ██║███████║██║  ██║██║ ╚████║  ║
+                                                        ║   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ║
+                                                        ║                                               ║
+                                                        ║            Data Analyst in Progress🚀        ║
+                                                        ╚═══════════════════════════════════════════════╝
 ```
 
 <!-- BADGE VISITOR COUNTER -->
@@ -51,7 +51,7 @@
 ---
 
 <!-- GITHUB STATS SECTION - TWO COLUMN LAYOUT -->
-## 📊 آمار گیتهاب من (My GitHub Stats)
+## 📊 آمار گیت هاب من (My GitHub Stats)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0hasanbagheri0&show_icons=true&theme=radical&hide_border=true" />
@@ -72,13 +72,14 @@
 | [My-Learning-Journal](https://github.com/0hasanbagheri0/My-Learning-Journal) | 📚 ژورنال یادگیری تحلیل داده | 🟢 در حال پیشرفت |
 | [Data-Analysis-Portfolio](https://github.com/0hasanbagheri0/Data-Analysis-Portfolio) | 📊 نمونه پروژه‌های تحلیل داده | 🟡 در حال ساخت |
 | [python-practice](https://github.com/0hasanbagheri0/python-practice) | 🐍 تمرین‌های روزانه پایتون | 🟢 فعال |
-
+---
 ## 🎵 در حال گوش دادن (Now Playing)
 <p align="center">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   <br />
   <span>آهنگ‌های مورد علاقه‌ام را در <a href="https://open.spotify.com/user/31opu4ldklzf2wfz4hdjtnotj6w4">اسپاتیفای</a> دنبال کنید.</span>
 </p>
+---
 ## 📫 چگونه با من تماس بگیرید؟ (How to contact me?)
 
 <p align="center">
