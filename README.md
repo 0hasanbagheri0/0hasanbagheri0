@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/github/followers/0hasanbagheri0?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/0hasanbagheri0?label=Stars&style=social" alt="GitHub Stars" />
 </p>
+
 ---
 
 <!-- INTRO SECTION -->
@@ -72,6 +73,7 @@
 | [My-Learning-Journal](https://github.com/0hasanbagheri0/My-Learning-Journal) | 📚 ژورنال یادگیری تحلیل داده | 🟢 در حال پیشرفت |
 | [Data-Analysis-Portfolio](https://github.com/0hasanbagheri0/Data-Analysis-Portfolio) | 📊 نمونه پروژه‌های تحلیل داده | 🟡 در حال ساخت |
 | [python-practice](https://github.com/0hasanbagheri0/python-practice) | 🐍 تمرین‌های روزانه پایتون | 🟢 فعال |
+
 ---
 ## 🎵 در حال گوش دادن (Now Playing)
 <p align="center">
@@ -79,6 +81,7 @@
   <br />
   <span>آهنگ‌های مورد علاقه‌ام را در <a href="https://open.spotify.com/user/31opu4ldklzf2wfz4hdjtnotj6w4">اسپاتیفای</a> دنبال کنید.</span>
 </p>
+
 ---
 
 ## 📫 چگونه با من تماس بگیرید؟ (How to contact me?)
