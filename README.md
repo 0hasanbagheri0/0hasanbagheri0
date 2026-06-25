@@ -73,20 +73,12 @@
 | [Data-Analysis-Portfolio](https://github.com/0hasanbagheri0/Data-Analysis-Portfolio) | 📊 نمونه پروژه‌های تحلیل داده | 🟡 در حال ساخت |
 | [python-practice](https://github.com/0hasanbagheri0/python-practice) | 🐍 تمرین‌های روزانه پایتون | 🟢 فعال |
 
----
-
-<!-- SPOTIFY NOW PLAYING (OPTIONAL) -->
 ## 🎵 در حال گوش دادن (Now Playing)
-
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31opu4ldklzf2wfz4hdjtnotj6w4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31opu4ldklzf2wfz4hdjtnotj6w4&cover_image=true&theme=novatorem" />
-  </a>
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <br />
+  <span>آهنگ‌های مورد علاقه‌ام را در <a href="https://open.spotify.com/user/31opu4ldklzf2wfz4hdjtnotj6w4">اسپاتیفای</a> دنبال کنید.</span>
 </p>
-
----
-
-<!-- CONTACT SECTION -->
 ## 📫 چگونه با من تماس بگیرید؟ (How to contact me?)
 
 <p align="center">
